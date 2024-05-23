@@ -12,10 +12,10 @@ export default function App() {
       html: `<html>
       <meta name=\"viewport\">
         <head>
-        <link href='https://fonts.googleapis.com/css?family=Space Grotesk' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet'>
         <style>
            h1 {
-            font-family: 'Space Grotesk', sans-serif;
+            font-family: 'Tangerine', sans-serif;
             text-decoration: underline;
           }
       </style>
